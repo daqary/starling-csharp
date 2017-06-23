@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DirectDebitMandate\" />
+    <Folder Include="Customer\" />
+    <Folder Include="Address\" />
+    <Folder Include="WhoAmI\" />
+    <Folder Include="Transactions\FasterPayments\In\" />
+    <Folder Include="Transactions\FasterPayments\Out\" />
+    <Folder Include="Transactions\DirectDebit\" />
+    <Folder Include="Transactions\Mastercard\" />
+    <Folder Include="Contact\" />
+    <Folder Include="Card\" />
+  </ItemGroup>
+
+</Project>
