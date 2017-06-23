@@ -9,8 +9,6 @@
     <Folder Include="Customer\" />
     <Folder Include="Address\" />
     <Folder Include="WhoAmI\" />
-    <Folder Include="Transactions\FasterPayments\In\" />
-    <Folder Include="Transactions\FasterPayments\Out\" />
     <Folder Include="Transactions\DirectDebit\" />
     <Folder Include="Transactions\Mastercard\" />
     <Folder Include="Contact\" />
