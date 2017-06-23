@@ -9,8 +9,11 @@
     <Folder Include="Customer\" />
     <Folder Include="Address\" />
     <Folder Include="WhoAmI\" />
-    <Folder Include="Contact\" />
     <Folder Include="Card\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
   </ItemGroup>
 
 </Project>
