@@ -9,7 +9,6 @@
     <Folder Include="Customer\" />
     <Folder Include="Address\" />
     <Folder Include="WhoAmI\" />
-    <Folder Include="Transactions\Mastercard\" />
     <Folder Include="Contact\" />
     <Folder Include="Card\" />
   </ItemGroup>
